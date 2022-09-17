@@ -28,6 +28,11 @@ I'm a tech enthusiast who loves learning and working with cutting edge technolog
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
+### Certifications
+<p align="left"> 
+<a href="https://www.github.com/cheelim1" target="_blank" rel="noreferrer"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.credly.com%2Fimages%2Fb9feab85-1a43-4f6c-99a5-631b88d5461b%2Flinkedin_thumb_image.png&imgrefurl=https%3A%2F%2Fwww.credly.com%2Fbadges%2F3c6d6c66-48a5-42fd-b051-5ead35380455&tbnid=_c8XIUPkDcelzM&vet=12ahUKEwiZ4oGG6Zr6AhXLgGMGHaFMCIcQMygJegUIARDPAQ..i&docid=6GsmxvkSssyEcM&w=672&h=352&q=developer%20associate%20certification&ved=2ahUKEwiZ4oGG6Zr6AhXLgGMGHaFMCIcQMygJegUIARDPAQ" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/cheelim-toh" target="_blank" rel="noreferrer"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width="32" height="32" /></a></p>
+
 
 ### Socials
 
