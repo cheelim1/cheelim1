@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cc32a9dc-de47-4e10-8a01-d87021295b4b)Hi 👋 My name is Chee Lim
+Hi 👋 My name is Chee Lim
 =========================
 
 Site Reliability Engineer
