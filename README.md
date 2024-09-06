@@ -1,4 +1,4 @@
-Hi 👋 My name is Chee Lim
+![image](https://github.com/user-attachments/assets/cc32a9dc-de47-4e10-8a01-d87021295b4b)Hi 👋 My name is Chee Lim
 =========================
 
 Site Reliability Engineer
@@ -18,6 +18,7 @@ I'm a tech enthusiast who loves learning and working with cutting edge technolog
 ### Certifications
 
 <p align="left"> 
+<a href="https://www.credly.com/badges/cd4f1190-f157-4e03-9199-dbd136461ddc" target="_blank" rel="noreferrer"><img src="https://images.credly.com/size/340x340/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" width="36" height="36" /></a>   
 <a href="https://www.credly.com/badges/4b0c713d-b5d2-4a1d-a631-81199267c72d/linked_in?t=rmoa3n" target="_blank" rel="noreferrer"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-SysOps-Administrator-Associate_badge.c3586b02748654fb588633314dd66a1d6841893b.png" width="36" height="36" /></a> 
 <a href="https://www.credly.com/badges/dae18f30-d281-4e9b-b3bf-90537108ef89/linked_in?t=rbcgs7" target="_blank" rel="noreferrer"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Developer-Associate_badge.5c083fa855fe82c1cf2d0c8b883c265ec72a17c0.png" width="36" height="36" /></a> 
 <a href="https://www.credly.com/badges/5d88dfc2-baca-4253-90a9-bb00462e5e96/linked_in?t=rfuzf4" target="_blank" rel="noreferrer"><img src="https://d1.awsstatic.com/training-and-certification/certification-badges/AWS-Certified-Solutions-Architect-Associate_badge.3419559c682629072f1eb968d59dea0741772c0f.png" width="36" height="36" /></a>
