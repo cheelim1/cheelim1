@@ -34,23 +34,6 @@ I'm a tech enthusiast based in 🇲🇾 **Malaysia**, passionate about learning 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=cheelim1&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cheelim1&theme=tokyonight" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cheelim1&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cheelim1&theme=tokyonight&utcOffset=8" />
-</div>
-
----
-
 ## 📜 Certifications
 
 <p align="center">
